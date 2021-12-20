@@ -41,11 +41,12 @@
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][webdevplaylist]
 
 <br />
----
 <br />
 
-[![Domen Hribernik's GitHub stats](https://github-readme-stats.vercel.app/api?username=domenhribernik)](https://github.com/domenhribernik/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=domenhribernik)](https://github.com/domenhribernik/github-readme-stats)
 
+
+[![Domen Hribernik's GitHub stats](https://github-readme-stats.vercel.app/api?username=domenhribernik)](https://github.com/domenhribernik/github-readme-stats)
 
 [website]: https://codeSTACKr.com
 [course]: http://vsCodeHero.com
