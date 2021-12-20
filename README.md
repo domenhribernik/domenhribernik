@@ -44,12 +44,8 @@
 ---
 <br />
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/domenhribernik/github-readme-stats)
 
-  <img align="left" alt="domenhribernik's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=domenhribernik&show_icons=true&hide_border=true" />
-
-</details>
 
 [website]: https://codeSTACKr.com
 [course]: http://vsCodeHero.com
