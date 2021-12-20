@@ -44,7 +44,7 @@
 ---
 <br />
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/domenhribernik/github-readme-stats)
+[![Domen Hribernik's GitHub stats](https://github-readme-stats.vercel.app/api?username=domenhribernik)](https://github.com/domenhribernik/github-readme-stats)
 
 
 [website]: https://codeSTACKr.com
