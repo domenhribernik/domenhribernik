@@ -54,4 +54,4 @@
 <!-- [youtube]: https://youtube.com/codeSTACKr -->
 [instagram]: https://www.instagram.com/domen_hribernik/
 [linkedin]: https://www.linkedin.com/in/domen-hribernik-4081a121b/
-[discord]: 
+[discord]: https://discord.gg/PWUrmu9B
