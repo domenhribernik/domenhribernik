@@ -1,7 +1,7 @@
 ### Hi there, I’m Domen 
-<!-- - aka [domenhribernik][website] 👋  -->
+ - aka [domenhribernik][website] 👋 
 
-<!-- [![Website](https://img.shields.io/website?label=domenhribernik.me&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://www.youtube.com/watch?v=dQw4w9WgXcQ) -->
+[![Website](https://img.shields.io/website?label=domenhribernik.com&style=for-the-badge&url=https%3A%2F%2Fdomenhribernik.com)](https://domenhribernik.com)
 <!-- [![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr) -->
 ## About Me
 
@@ -53,10 +53,9 @@ I'm a computer science student at [FERI] Maribor.
 <!-- [![Domen Hribernik's GitHub stats](https://github-readme-stats.vercel.app/api?username=domenhribernik)](https://github.com/domenhribernik/github-readme-stats) -->
 
 
-<!-- [course]: http://vsCodeHero.com -->
 [FERI]: https://feri.um.si/
 [twitter]: https://twitter.com/domen_hribernik
-<!-- [youtube]: https://youtube.com/codeSTACKr -->
 [instagram]: https://www.instagram.com/domen_hribernik/
 [linkedin]: https://www.linkedin.com/in/domen-hribernik-4081a121b/
 [discord]: https://discord.gg/PWUrmu9B
+[website]: https://domenhribernik.com
