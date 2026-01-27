@@ -53,6 +53,6 @@ I'm passionate about building robust software solutions and continuously expandi
 ---
 
 ## GitHub Contribution Graph
- ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=domenhribernik&theme=github&theme=react)
+ ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=domenhribernik&theme=react)
 README.md
 Prikazan je element README.md. 
