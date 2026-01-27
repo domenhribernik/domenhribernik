@@ -1,17 +1,3 @@
-Priloga NV_VPN_Server1_domenh.ovpn je dodana.Pogovor je odprt. 1 prebrano sporočilo.
-
-Preskoči na vsebino
-Uporaba storitve Gmail z bralniki zaslona
-2 od 969
-read me updated
-Prejeto
-
-Domen Hribernik <domen.hribernik4@gmail.com>
-Priloge
-pon., 26. jan., 15:25 (pred 17 urami)
-Za jaz
-
-
 Domen Hribernik
 Software Developer
 Website | GitHub | LinkedIn
@@ -30,9 +16,9 @@ I'm passionate about building robust software solutions and continuously expandi
 
 ### Connect with me:
 
-[<img align="left" alt="domenhribernik | Twitter" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="domenhribernik | LinkedIn" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="domenhribernik | Instagram" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="domenhribernik | Twitter" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="domenhribernik | LinkedIn" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="domenhribernik | Instagram" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
 
@@ -67,6 +53,6 @@ I'm passionate about building robust software solutions and continuously expandi
 ---
 
 ## GitHub Contribution Graph
- ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=domenhribernik&theme=redical)
+ ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=domenhribernik)
 README.md
 Prikazan je element README.md. 
