@@ -41,7 +41,7 @@ I'm passionate about building robust software solutions and continuously expandi
 <br />
 <br />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=domenhribernik)](https://github.com/domenhribernik/github-readme-stats)
+[![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=domenhribernik)](https://github.com/anuraghazra/github-readme-stats)
 
 
 [novavizija]: https://www.vizija.si/
