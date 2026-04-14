@@ -16,9 +16,11 @@ I enjoy building robust software and keeping up with modern development practice
 [<img alt="domenhribernik | LinkedIn" height="30px" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
 [<img alt="domenhribernik | Instagram" height="30px" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />][instagram]
 
-[![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=domenhribernik&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+### Languages and Tools:
 
----
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,wordpress,php,mysql,angular,react,tailwind,nodejs,py,django,dotnet,cs,cpp,linux&theme=dark&perline=8)](https://skillicons.dev)
+
+[![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=domenhribernik&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=domenhribernik&theme=react)
 
